@@ -2,6 +2,10 @@
 
 Linux desktop tools, local automation experiments, and small systems projects.
 
+## Writing Tools
+
+- [Scriptorium](https://github.com/betnbd/draftagent) - Local-first desktop writing workspace for Markdown manuscripts with a Typora-style editor, file tree, and terminal-backed AI assistants.
+
 ## Agent Security
 
 - [Warder](https://github.com/betnbd/warder) - Linux safety layer for running local AI agents with protected zones, supervised sessions, and readable receipts.
