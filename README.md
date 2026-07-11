@@ -1,6 +1,6 @@
-# betnbd
+Desktop tools, local automation experiments, and small systems projects.
 
-Linux desktop tools, local automation experiments, and small systems projects.
+# Linux 
 
 ## Writing Tools
 
