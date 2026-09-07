@@ -28,7 +28,7 @@ This is a collection of my applications, utilities, and experiments.
 Both macOS apps currently install from source. Their READMEs explain requirements,
 local signing, and the available install paths.
 
-## Past work · Linux desktop & creative tools
+## Linux desktop & creative tools
 
 These repositories are archived and available as reference projects. Their install
 instructions describe the last published source state.
@@ -39,7 +39,7 @@ instructions describe the last published source state.
 | [Theme Launcher](https://github.com/betnbd/theme-launcher) | Coordinate Ubuntu/GNOME and desktop app themes from a local catalog. | [Install](https://github.com/betnbd/theme-launcher#install) |
 | [GNOME Taskbar Tweaker](https://github.com/betnbd/gnome-taskbar-tweaker) | Reorder supported top-panel items across the left, center, and right sections. | [Source install](https://github.com/betnbd/gnome-taskbar-tweaker#install-from-source) |
 
-## Past work · Developer & AI workflow tools
+## Developer & AI workflow tools
 
 These repositories are also archived.
 
@@ -49,11 +49,10 @@ These repositories are also archived.
 | [AgentBar](https://github.com/betnbd/agentbar-menubar) | Linux tray app and CLI for provider usage, reset windows, and spend. | [Install](https://github.com/betnbd/agentbar-menubar#install) |
 | [Kickstart](https://github.com/betnbd/kickstart) | Turn a project idea into a practical brief, task list, and kickoff prompt. | [pipx, pip, or source](https://github.com/betnbd/kickstart#install) |
 
-## Experiments & upstream work
+## Experiments
 
-- [Warder](https://github.com/betnbd/warder) — mothballed Linux supervised-session prototype; retained for inspection and possible revival.
+- [Warder](https://github.com/betnbd/warder) — an experimental Rust toolkit for supervising local AI agents on Linux, with execution controls, activity journals, and session receipts.
 - [Cryptonomicon](https://github.com/betnbd/cryptonomicon-cli) — an archived Python blockchain and cryptocurrency prototype.
-- [My Omarchy fork](https://github.com/betnbd/omarchy) — upstream exploration, separate from my original applications. Visit [Omarchy](https://github.com/omacom/omarchy) for the original project.
 
 ---
 
